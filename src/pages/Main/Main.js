@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import Intro from './Intro/Intro';
+import Intro from './Intro';
 import Skills from './Skills/Skills';
 import SubSkills from './SubSkills/SubSkills';
 import LearningLog from './LearningLog/LearningLog';
