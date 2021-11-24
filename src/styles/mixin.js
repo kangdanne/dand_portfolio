@@ -19,6 +19,7 @@ export const sectionTitleFont = css`
   color: transparent;
   -webkit-text-stroke: 1px #000;
 `;
+
 export const defaultFontStyle = css`
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 300;
