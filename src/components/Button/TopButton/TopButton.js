@@ -60,6 +60,7 @@ const TopButtonWrap = styled.div`
       transform-origin: bottom left;
       transform: rotate(310deg);
     }
+
     &:after {
       position: absolute;
       top: 0;
