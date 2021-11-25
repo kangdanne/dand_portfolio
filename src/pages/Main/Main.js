@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 import Intro from './Intro';
-import Skills from './Skills/Skills';
-import SubSkills from './SubSkills/SubSkills';
+import Skill from './Skill';
+import SubSkill from './SubSkill';
 import LearningLog from './LearningLog/LearningLog';
 import Projects from './Projects/Projects';
 import WorkExperiences from './WorkExperiences/WorkExperiences';
@@ -13,8 +13,8 @@ export default function Main() {
   return (
     <MainWrap>
       <Intro />
-      <Skills />
-      <SubSkills />
+      <Skill />
+      <SubSkill />
       <LearningLog />
       <Projects />
       <WorkExperiences />

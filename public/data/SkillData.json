@@ -1,0 +1,26 @@
+[
+  {
+    "skillName": "Semantic Markup - HTML5",
+    "skillDiscripttion": "시멘틱 태그와 구성을 통한 탄탄한 웹 페이지 마크업이 가능합니다. "
+  },
+  {
+    "skillName": "CSS3, CSS Preprocessor(Sass), CSS in JS(Styled Components)",
+    "skillDiscripttion": "CSS를 활용한 감각적인 웹 스타일링과 애니메이션을 구현합니다. 스타일 재사용과 유지보수를 고려한 CSS Preprocessor(Sass)을 사용하며, Styled Components를 사용한 컴포넌트 스타일링을 합니다. "
+  },
+  {
+    "skillName": "JavaScript",
+    "skillDiscripttion": "JavaScript를 사용한 인터렉티브한 웹을 구성합니다. Vanilla Javascript를 통한 개발을 지향허며, ES5이상의 꾸준히 학습하고 있습니다. 적절한 상황에서의 jQuery 라이브러리 사용도 가능 합니다."
+  },
+  {
+    "skillName": "Git, GitHub",
+    "skillDiscripttion": "Git과 GitHub을 사용한 프로젝트 관리와 협업이 가능하며, CLI환경에서의 사용을 지향합니다."
+  },
+  {
+    "skillName": "Cross Browsing",
+    "skillDiscripttion": "CSS(media query 등), JavaScript(resize  이벤트, navigator.userAgent 등)를 이용한 반응형, 적응형 웹 / 앱을 구현합니다. 크롬, 사파리 , EI, 삼성 등 인 앱 브라우저의 인터페이스에 대한 이해와 함께 다양한 디바이스에 최적화된 대응할 수 있습니다. 시뮬레이터의 출력결과에 의존하지 않고, 실제 디바이스를 확인하는 것을 추구합니다."
+  },
+  {
+    "skillName": "Cooperation & Management Tool",
+    "skillDiscripttion": "실무에서 Slack를 활용한 커뮤니케이션과 Trello, Taskworld를 통한 협업 및 일정 관리를 진행해왔습니다."
+  }
+]
