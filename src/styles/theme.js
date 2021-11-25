@@ -1,5 +1,6 @@
 const theme = {
-  mainFont: '#000',
+  mainFontColor: '#000',
+  linkColor: '#005B3A',
 };
 
 export default theme;

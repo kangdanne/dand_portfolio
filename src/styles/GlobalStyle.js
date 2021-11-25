@@ -16,6 +16,9 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 300;
   }
 
+  a{
+    text-decoration:none;
+  }
 `;
 
 export default GlobalStyle;
