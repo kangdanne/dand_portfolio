@@ -1,0 +1,22 @@
+[
+  {
+    "projectId": 0,
+    "projectImg": "./images/porject_bbatta.png",
+    "projectTitle": "BBADDA",
+    "projectDiscription": "MLB 사이트를 모티브로 구현한 React 프로젝트",
+    "role": "제품 상세페이지",
+    "usedskill": ["skill01", "skill02", "skill03"],
+    "githubURL": "https://github.com/wecode-bootcamp-korea/25-1st-bbadda-frontend",
+    "postURL": "#n"
+  },
+  {
+    "projectId": 0,
+    "projectImg": "./images/porject_magafox.png",
+    "projectTitle": "MEGAFOX",
+    "projectDiscription": "MEGABOX 사이트를 모티브로 구현한 React 프로젝트",
+    "role": "메인 페이지, Header/Footer 컴포넌트",
+    "usedskill": ["skill01", "skill02", "skill03"],
+    "githubURL": "https://github.com/wecode-bootcamp-korea/25-2nd-MEGAFOX-frontend",
+    "postURL": "#n"
+  }
+]

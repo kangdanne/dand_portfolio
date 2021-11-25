@@ -49,10 +49,10 @@ const TopButtonWrap = styled.div`
     background: #8a8a8a;
 
     &:before {
+      content: '';
       position: absolute;
       top: 0;
       left: 0;
-      content: '';
       width: 20px;
       height: 1px;
       background: #8a8a8a;
@@ -61,10 +61,10 @@ const TopButtonWrap = styled.div`
     }
 
     &:after {
+      content: '';
       position: absolute;
       top: 0;
       left: 0;
-      content: '';
       width: 100%;
       height: 2px;
       background: #fff;
