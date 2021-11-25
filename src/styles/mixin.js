@@ -14,6 +14,7 @@ export const subTitleFont = css`
 `;
 
 export const sectionTitleFont = css`
+  margin-bottom: 70px;
   font-family: 'Rozha One', serif;
   font-size: 3em;
   color: transparent;
@@ -24,6 +25,11 @@ export const defaultFontStyle = css`
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 300;
   line-height: 1.5;
+`;
+
+export const mediumFontStyle = css`
+  font-size: 20px;
+  font-weight: 400;
 `;
 
 export const defaultFontSize = css`

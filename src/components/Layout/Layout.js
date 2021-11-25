@@ -9,15 +9,16 @@ import {
 export default function Layout() {
   return (
     <LayoutWrap>
-      <SectionTitle>Skills</SectionTitle>
-      <Text>단디하는 프론트엔드 개발자 강단입니다.</Text>
+      <SectionTitle>Title</SectionTitle>
     </LayoutWrap>
   );
 }
+
 const LayoutWrap = styled.section`
   width: 1000px;
-  margin: 440px auto 0;
+  margin: 200px auto;
 `;
+
 const SectionTitle = styled.h3`
   ${sectionTitleFont}
 `;

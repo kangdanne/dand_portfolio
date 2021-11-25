@@ -12,11 +12,9 @@ export default function TopButton() {
 
 const upDown = keyframes`
     0%{
-      opacity:0;
       width:100%;
     }
     100% {
-      opacity:1;
       width:0;
     }
 `;
@@ -69,8 +67,8 @@ const TopButtonWrap = styled.div`
       width: 100%;
       height: 2px;
       background: #fff;
-      animation-duration: 3000ms;
-      animation-timing-function: ease-in;
+      animation-duration: 2s;
+      animation-timing-function: ease-out;
       animation-name: ${upDown};
       animation-iteration-count: infinite;
     }
