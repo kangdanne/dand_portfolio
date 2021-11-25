@@ -22,7 +22,8 @@ const upDown = keyframes`
 const TopButtonWrap = styled.div`
   position: fixed;
   right: 50%;
-  margin-right: -500px;
+  /* margin-right: -500px; */
+  margin-right: -600px;
   bottom: 90px;
   width: 80px;
   height: 20px;

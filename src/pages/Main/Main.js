@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Intro from './Intro';
 import Skill from './Skill';
 import SubSkill from './SubSkill';
-import LearningLog from './LearningLog/LearningLog';
+import LearningLog from './LearningLog';
 import Projects from './Projects/Projects';
 import WorkExperiences from './WorkExperiences/WorkExperiences';
 import OtherExperiences from './OtherExperiences/OtherExperiences';
